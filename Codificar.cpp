@@ -35,6 +35,8 @@ struct floresta{
 };
 typedef struct floresta TpFloresta;
 
+
+
 //===================================================================================================================================
 struct Pilha{
 	struct tree *No;
